@@ -1,0 +1,11 @@
+# Fisiere temporare Visual Studio
+.vs/
+*.slnx
+ipch/
+*.db
+*.opendb
+Debug/
+Release/
+x64/
+x86/
+*.user
